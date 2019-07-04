@@ -1,0 +1,2 @@
+# nct
+New communication technology.
